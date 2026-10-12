@@ -1,0 +1,6 @@
+{
+  "name": "The Well-Dressed",
+  "description": "A premier men's fashion, style, grooming, and lifestyle editorial publication engineered for SEO and Answer Engine Optimisation (AEO).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

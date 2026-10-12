@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Homepage -->
+  <url>
+    <loc>https://thewelldressed.magazine/</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Keyword Research Page (Assignment Artifact) -->
+  <url>
+    <loc>https://thewelldressed.magazine/keyword-research</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Article 1: Men's Style Guide -->
+  <url>
+    <loc>https://thewelldressed.magazine/article/mens-style-guide-how-to-dress-better</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Article 2: Men's Capsule Wardrobe -->
+  <url>
+    <loc>https://thewelldressed.magazine/article/mens-capsule-wardrobe-beginners-guide</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Article 3: Men's Grooming and Skincare -->
+  <url>
+    <loc>https://thewelldressed.magazine/article/mens-grooming-skincare-routine-beginners</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Article 4: Smart-Casual College Student -->
+  <url>
+    <loc>https://thewelldressed.magazine/article/how-to-dress-smart-casual-college-student</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Article 5: Timeless Wardrobe on a Budget -->
+  <url>
+    <loc>https://thewelldressed.magazine/article/build-timeless-mens-wardrobe-on-a-budget</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Article 6: Right Fit for Men's Clothes -->
+  <url>
+    <loc>https://thewelldressed.magazine/article/how-to-find-right-fit-mens-clothes</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Article 7: Best Men's Shoes -->
+  <url>
+    <loc>https://thewelldressed.magazine/article/best-mens-shoes-every-occasion-style-guide</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Article 8: Winter Outfits -->
+  <url>
+    <loc>https://thewelldressed.magazine/article/how-to-style-mens-outfits-for-winter</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Article 9: Hairstyle Guide by Face Shape -->
+  <url>
+    <loc>https://thewelldressed.magazine/article/mens-hairstyle-guide-face-shape</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Article 10: Versatile Wardrobe for College -->
+  <url>
+    <loc>https://thewelldressed.magazine/article/versatile-mens-wardrobe-for-college</loc>
+    <lastmod>2026-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+</urlset>

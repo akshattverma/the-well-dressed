@@ -1,0 +1,7 @@
+# User-agent rules for The Well-Dressed Magazine
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# Sitemaps
+Sitemap: https://thewelldressed.magazine/sitemap.xml
