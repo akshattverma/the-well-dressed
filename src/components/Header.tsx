@@ -45,15 +45,8 @@ export function Header({
           <span className="hidden sm:inline text-[#B5AEA4]">/</span>
           <span className="hidden sm:inline">Volume IV · Issue 10</span>
         </div>
-        <div className="flex items-center space-x-4">
-          <button
-            onClick={onOpenDeploymentGuide}
-            className="flex items-center space-x-1.5 text-[#8B6534] hover:text-[#654620] font-semibold transition-colors cursor-pointer"
-            title="Deploy to GitHub & Vercel step-by-step guide"
-          >
-            <Rocket className="w-3.5 h-3.5" />
-            <span className="text-[11px]">Deploy Guide</span>
-          </button>
+        <div className="text-[11px] text-[#A8A196]">
+          <span>Autumn / Winter 2026</span>
         </div>
       </div>
 
@@ -161,13 +154,6 @@ export function Header({
             >
               <BookOpen className="w-3.5 h-3.5" />
               <span>Fashion FAQ</span>
-            </button>
-            <button
-              onClick={onOpenDeploymentGuide}
-              className="px-2.5 py-1 text-[11px] bg-[#1C1A18] text-[#FAF8F5] rounded hover:bg-[#34302C] transition-colors flex items-center space-x-1.5 cursor-pointer"
-            >
-              <Rocket className="w-3 h-3 text-[#D4AF37]" />
-              <span>Vercel / GitHub Setup</span>
             </button>
           </div>
         </div>
